@@ -3,14 +3,10 @@
   - Digital Image Processing Project
 
 > Some of the Samples Images are as follows:
-
-![alt text](https://github.com/AzharMithani/License-Plate-Detection/blob/master/1.jpg)
-
-![alt text](https://github.com/AzharMithani/License-Plate-Detection/blob/master/2.jpg)
-
-![alt text](https://github.com/AzharMithani/License-Plate-Detection/blob/master/3.jpg)
-
-# Dijkstra Algorithm :rocket:
-<div>
-   <img src="./github/dijkstra_animation.gif" width="600px">
-</div>
+  <img src="https://github.com/IcaroApoloBR/License-Plate-Recognition/blob/main/prints/example1.PNG" width="600px">
+  <img src="https://github.com/IcaroApoloBR/License-Plate-Recognition/blob/main/prints/example2.PNG" width="600px">
+  <img src="https://github.com/IcaroApoloBR/License-Plate-Recognition/blob/main/prints/example3.PNG" width="600px">
+  <img src="https://github.com/IcaroApoloBR/License-Plate-Recognition/blob/main/prints/example4.PNG" width="600px">
+  <img src="https://github.com/IcaroApoloBR/License-Plate-Recognition/blob/main/prints/example5.PNG" width="600px">
+  <img src="https://github.com/IcaroApoloBR/License-Plate-Recognition/blob/main/prints/example6.PNG" width="600px">
+  <img src="https://github.com/IcaroApoloBR/License-Plate-Recognition/blob/main/prints/example7.PNG" width="600px">
